@@ -21,7 +21,7 @@ Note the training data were generated artificically in a manner where TAC and bl
 
 ## Getting Started
 
-
+In the terminal, run "python KineticModel150RateConstants.py"
 
 
 
